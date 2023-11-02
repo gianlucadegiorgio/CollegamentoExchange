@@ -1,2 +1,2 @@
-# CollegamentoExchange
-## Collegamento ad Exchange in Python
+# PrimoProgetto
+Primo progetto di prova
