@@ -1,2 +1,2 @@
 # CollegamentoExchange
-Collegamento ad Exchange in Python
+ - Collegamento ad Exchange in Python
